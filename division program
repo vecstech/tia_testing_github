@@ -1,0 +1,5 @@
+#division program
+a=int(input("enter divident"))
+b=int(input("enter divident"))
+c=a/b
+print(a, "divided by", b, "is", c)
